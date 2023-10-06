@@ -7,15 +7,18 @@ body {
   line-height: 1.5;
   padding: 4em 1em;
   
-  color: #555;
+  color: #ececec;
+  background-color: #202124;
 }
+
+
 
 h1,
 h2,
 strong {
-  color: #333;
+  color: #ffffff;
 }
 
 a {
-  color: #e81c4f;
+  color: #0083c5;
 }
